@@ -1,61 +1,28 @@
-# MDresearch+ Sitemap (Text Format)
-# Updated: December 7, 2025
-# Total URLs: 28
-
-# Homepage
 https://www.mdresearch.online/
-
-# Core Pages
 https://www.mdresearch.online/services/
 https://www.mdresearch.online/pricing/
 https://www.mdresearch.online/contact/
-
-# Profile & About
 https://www.mdresearch.online/profile/
 https://www.mdresearch.online/about-us/
-
-# Articles Hub
 https://www.mdresearch.online/articles/
-
-# Tools & Resources
 https://www.mdresearch.online/tools/
 https://www.mdresearch.online/research-qa/
 https://www.mdresearch.online/faq/
-
-# Fastwork Profile
 https://www.mdresearch.online/fastwork/
-
-# Legal Pages
 https://www.mdresearch.online/terms/
 https://www.mdresearch.online/privacy/
-
-# Sitemap Page
 https://www.mdresearch.online/sitemap/
-
-# Articles - Medical Research Content (14 Articles)
-
-# Research Methods
 https://www.mdresearch.online/articles/finer-criteria/
 https://www.mdresearch.online/articles/pico-t-framework/
 https://www.mdresearch.online/articles/research-ethics-guide/
-
-# Statistical Analysis
 https://www.mdresearch.online/articles/statistical-analysis-guide/
-
-# Literature Review
 https://www.mdresearch.online/articles/literature-review-guide/
-
-# Writing Guides
 https://www.mdresearch.online/articles/research-proposal-guide/
 https://www.mdresearch.online/articles/manuscript-writing-guide/
 https://www.mdresearch.online/articles/review-article-guide/
 https://www.mdresearch.online/articles/thesis-chapters-1-3-guide/
 https://www.mdresearch.online/articles/thesis-chapters-4-5-guide/
-
-# Research Skills
 https://www.mdresearch.online/articles/presentation-guide/
-
-# AI & Technology
 https://www.mdresearch.online/articles/ai-research-proposal-1/
 https://www.mdresearch.online/articles/ai-research-proposal-2/
 https://www.mdresearch.online/articles/ai-research-proposal-3/
