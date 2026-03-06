@@ -1,4 +1,15 @@
+# mdresearch.online robots.txt
+# Goal: allow search discovery and AI search retrieval, but not model training by OpenAI
+
 User-agent: *
 Allow: /
 
-Sitemap: https://charshawnlahn.github.io/mdresearch-sitemap/sitemap.xml
+# OpenAI search crawling: allow
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI training crawl: block
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.mdresearch.online/sitemap.xml
